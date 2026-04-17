@@ -1,0 +1,1 @@
+print("Lulli pe Ulli\n" *10000)
